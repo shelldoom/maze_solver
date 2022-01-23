@@ -44,7 +44,7 @@ A cell in the maze can be of the following types:
 - Show in animated way
 
 #### References
-- Lecture 1 - CS50 Introduction to AI with Python 2020 
+- Lecture 0 - CS50 Introduction to AI with Python 2020 
   - [harvard.edu](https://cs50.harvard.edu/ai/2020/weeks/0/)
   - [YouTube](https://www.youtube.com/watch?v=D5aJNFWsWew)
 - [Wikipedia - A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm#Pseudocode)
